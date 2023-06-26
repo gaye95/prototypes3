@@ -1,0 +1,46 @@
+.navigation{
+    background: linear-gradient( #0000008c, rgb(0, 0, 0,0.55));
+    background-image: url('../img/Rectangl.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.nav-link:hover,
+.nav-link:active{
+    background-color: white;
+    border-radius: 25px;
+    color: white;
+    
+}
+
+@media screen and (min-width: 320px) and (max-width: 578px)
+
+{
+
+    
+  .col .graphe{
+    width: 300px;
+    height: 190px;
+  }
+  .sama2{
+    margin-top: 25px;
+    
+  }
+  .graphe3{
+    margin-top: 30px;
+    margin-right: -5px;
+    margin-left: 3px;
+    
+  }
+  .col .card1{
+    margin-right: -25px;
+  }
+
+  .photo1{
+    width: 290px;
+    height: 578px;
+    margin-left: -33px;
+  }
+  
+}
+
