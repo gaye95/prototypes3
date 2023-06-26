@@ -52,6 +52,16 @@
     margin-left: -33px;
 
   }
+
+  .card21{
+    margin-bottom: 25px;
+    width: 250px;
+    margin-left: -33px;
+  }
+
+  .arrows{
+    width: 80px;
+  }
 }
 
 .cartes1:hover,
