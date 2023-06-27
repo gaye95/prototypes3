@@ -130,68 +130,25 @@
 
 /*425px*/
 
-
-/*425px*/
-@media screen  and (max-width: 578px)
-
-
-{
-
-
-  .cartes1{
-    box-shadow: 1px 1px grey;
-    width: 200px;
-  }
-  .col .graphe{
-    width: 400px;
-    height: 190px;
-  }
-
-
-  .sama2{
-    margin-top: 25px;
-   
-  }
+@media screen and (min-width: 425px) {
   .graphe3{
     margin-top: 30px;
-    margin-right: 3px;
-   
+    margin-left: 3px;
   }
-  .col .card1{
-    margin-right: -25px;
-  }
-
-
-  .photo1{
-    width: 400px;
-    height: 578px;
-    margin-left: -33px;
-  }
-
-
- 
-  .photo11{
-    width: 400px;
-    height: 578px;
-    margin-left: -33px;
-
-
-  }
-
-
-  .card21{
-    margin-bottom: 25px;
-    width: 350px;
-    border-radius: none;
-  }
-  .card21 .card-body{
-    text-align: center;
-  }
-
-
-  .arrows{
-    width: 80px;
-  }
+    .col .graphe{
+      width: 400px;
+      height: 190px;
+    }
+    
+    .photo1{
+      width: 400px;
+      height: 578px;
+    }
+    .photo11{
+      width: 400px;
+      height: 578px;
+  
+    }
 }
 
 
