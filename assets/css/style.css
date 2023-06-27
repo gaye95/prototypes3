@@ -13,7 +13,7 @@
     
 }
 /*320px*/
-@media screen and (min-width: 320px) and (max-width: 578px) 
+@media screen and (min-width: 320px) and (max-width: 374px) 
 
 {
   .card21 .card-body{
@@ -68,7 +68,7 @@
 }
 
 /*375px*/
-@media screen and (min-width: 375px) and (max-width: 578px)
+@media screen and (min-width: 375px) and (max-width: 424px)
 
 
 {
@@ -136,14 +136,31 @@
     height: 190px;
   }
 
+  .graphe3{
+    margin-top: 30px;
+    margin-right: 3px;
+   
+  }
   .photo1{
-    width: 400px;
+    width: 355px;
     height: 578px
   }
 
   .photo11{
-    width: 410px;
+    width: 355px;
     height: 578px
+  }
+
+  .sama2{
+    margin-bottom: -100px;
+  }
+
+  .col .card1{
+    width: 405px;
+  }
+
+  .colle4{
+    margin-bottom: 50px;
   }
 
 }
