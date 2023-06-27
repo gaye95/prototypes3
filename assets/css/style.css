@@ -129,22 +129,7 @@
 }
 
 /*425px*/
-@media screen  and (max-width: 578px)
 
-
-{
-
-
-  .cartes1{
-    box-shadow: 1px 1px grey;
-    width: 200px;
-  }
-  .col .graphe{
-    width: 400px;
-    height: 190px;
-  }
-
-}
 
 /*425px*/
 @media screen  and (max-width: 578px)
