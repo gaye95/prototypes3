@@ -128,6 +128,27 @@
   }
 }
 
+/*425px*/
+@media screen and (min-width: 425px) and (max-width: 578px)
+{
+  .col .graphe{
+    width: 401px;
+    height: 190px;
+  }
+
+  .photo1{
+    width: 400px;
+    height: 578px
+  }
+
+  .photo11{
+    width: 410px;
+    height: 578px
+  }
+
+}
+
+
 
 
 
